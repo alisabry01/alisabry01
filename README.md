@@ -2,8 +2,6 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alisabry01&label=Profile views&color=0e75b6&style=flat" alt="alisabry01" /> </p>
-
 - 🔭 I'm currently working on **E-commerce App**
 
 - 🌱 I'm currently learning **SwiftUI, UIKit, Swift and Opjective-C**
